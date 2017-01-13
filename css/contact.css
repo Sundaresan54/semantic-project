@@ -1,0 +1,19 @@
+#con{
+  color: orange;
+}
+.back{
+background-color: grey;
+  background-image: url(http://www.uml.co.in/images/accessories.jpg);
+  background-size: cover;
+  height: 700px;
+  width: 100%;
+}
+.contact{
+  margin-top: 100px;
+  color: orange;
+}
+#ed{
+  margin-top: 20px;
+  margin-left: 200px;
+  color:black;
+}

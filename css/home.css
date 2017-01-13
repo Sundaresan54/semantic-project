@@ -1,0 +1,108 @@
+.row{
+  padding-left: 50px;
+  width: 50px;
+}
+#footer ul li{
+  display: inline;
+  font-size: 30px;
+  padding-right: 10px;
+}
+#footer ul{
+  list-style: none;
+}
+#footer{
+  margin: 0px;
+  text-align: center;
+  margin-top: -20px;
+}
+.item{
+  width:150px;
+}
+.margin{
+  margin-top:70px;
+}
+.logo{
+  width: 30px;
+}
+
+.column1{
+margin-top: 50px;
+margin-left: 30px;
+width: 280px;
+height: 500px;
+
+}
+
+.padding{
+margin-top: 40px;
+
+}
+.content1	{
+margin-left: 5px;
+}
+#pic1{
+height: 250px;
+}
+#padd1{
+padding-left: 100px;
+}
+#view{
+margin-left: 90px;
+width: 60px;
+}
+.padding1{
+height: 80px;
+}
+.header{
+color: black;
+}
+#h1{
+margin-top: 100px;
+color:#f28c18;
+}
+#news{
+width: 680px;
+height:550px;
+}
+
+}
+.edi{
+width: 500px;
+}
+.edit{
+
+margin-top: 30px;
+width: 600px;
+padding-left: 60px;
+color:white;
+font-size: 30px;
+}
+.edit1{
+
+padding-left: 60px;
+width: 600px;
+color:white;
+
+}
+#edit2 {
+margin-top:30px;
+padding-left: 60px;
+width: 600px;
+margin-left:70px;
+}
+#footer{
+height: 5px;
+
+}
+.edi{
+position: relative;
+}
+#uml{
+width:680px;
+height:550px;
+}
+
+.col2 {
+background-color: gray;
+color: white;
+}
